@@ -14,7 +14,7 @@ const films = {
   '🚗💨🎥': "Fast and Furious",
   '🕵️‍♀️🎭🗽': "Miss Congeniality",
   '🦖🌴🌋': "Jurassic Park",
-  '👨‍🚀🌌🛰️': "Apollo 13",
+  '👨‍🚀🚀🌕': "Apollo 13",
   '🍫🏭🎫': "Willy Wonka and the Chocolate Factory",
   '🤖🤠🌵': "Wall-E",
   '🤴🧙‍♀️👸': "The Princess Diaries",
